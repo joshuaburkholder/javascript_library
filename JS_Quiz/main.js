@@ -2,30 +2,42 @@
 (function() {
   const myQuestions = [
     {
-      question: "Who is the strongest?",
+      question: "What hymn is Martin Luther best known for having written?",
       answers: {
-        a: "Superman",
-        b: "The Terminator",
-        c: "Waluigi (obviously)"
+        a: "Amazing Grace",
+        b: "Earth and All Stars",
+        c: "A Mighty Fortress",
+        b: "Alice's Restaraunt",        
       },
       correctAnswer: "c"
     },
     {
-      question: "What is the best site ever created?",
+      question: "Which was NOT a watchword of the Lutheran Reformation?",
       answers: {
-        a: "SitePoint",
-        b: "Simple Steps Code",
-        c: "Trick question; they're both the best"
+        a: "Grace Alone",
+        b: "Tradition Alone",
+        c: "Faith Alone",
+        d: "Scripture Alone"
+      },
+      correctAnswer: "b"
+    },
+    {
+      question: "The Confessions of the Lutheran Church are contained in:",
+      answers: {
+        a: "The Book of Genesis",
+        b: "The Book of Mormon",
+        c: "The Book of Concord",
+        d: "The Lutheran Handbook"
       },
       correctAnswer: "c"
     },
     {
-      question: "Where is Waldo really?",
+      question: "An indulgence was",
       answers: {
-        a: "Antarctica",
-        b: "Exploring the Pacific Ocean",
-        c: "Sitting in a tree",
-        d: "Minding his own business, so stop asking"
+        a: "a note requesting to marry",
+        b: "official minutes taken during a diet",
+        c: "a dessert pastry made with lutefisk",
+        d: "a paper alleged to offer forgiveness of sins (for the right price)"
       },
       correctAnswer: "d"
     }
