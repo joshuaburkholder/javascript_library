@@ -14,7 +14,7 @@ const myQuestions = [
 			c: "Waluigi (obviously!)"
 		},
 
-		correctAnswer: "c"
+		correctAnswer: "b"
 	},
 
 	{
@@ -25,7 +25,7 @@ const myQuestions = [
 			c: "X-Box"
 		},
 
-		correctAnswer: "b"
+		correctAnswer: "c"
 	},
 
 	{
@@ -39,7 +39,7 @@ const myQuestions = [
 		correctAnswer: "a"
 	}
 ]
-
+ 
 function buildQuiz(){
 	const output = [];
 
