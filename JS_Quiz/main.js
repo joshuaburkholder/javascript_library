@@ -7,7 +7,7 @@
         a: "Amazing Grace",
         b: "Earth and All Stars",
         c: "A Mighty Fortress",
-        b: "Alice's Restaraunt",        
+        d: "Alice's Restaraunt",        
       },
       correctAnswer: "c"
     },

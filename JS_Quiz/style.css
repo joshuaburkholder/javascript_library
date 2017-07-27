@@ -12,6 +12,7 @@ body{
   	font-weight: 300;
   	text-align: center;
   	background-color: #dbd6cb;
+    height: 75vh;
 }
 
 .section {
@@ -30,9 +31,10 @@ h1{
 }
 
 .question{
-  font-size: 30px;
+  font-size: 22px;
   margin-bottom: 10px;
 }
+
 .answers {
   margin-bottom: 20px;
   text-align: left;
